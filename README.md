@@ -1,4 +1,8 @@
 # git-practice
 practicing github
 
-jchumber
+
+hello there. this is tara.
+
+This is the readme file. 
+
